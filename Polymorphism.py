@@ -24,3 +24,8 @@ for Sport in (FootObj,CricObj):
     Sport.stadiumShape()
     Sport.NoofUmpire()
     Sport.PopularStar()
+    
+for Sport in (FootObj,CricObj):
+    Sport.stadiumShape()
+    Sport.NoofUmpire()
+    Sport.PopularStar()
